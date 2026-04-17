@@ -34,9 +34,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yekongclx-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yekongclx-a11y&layout=compact&theme=tokyonight&hide_border=true)
+![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fyekongclx-a11y%3Fy%3Dtotal&query=%24.total.total&label=Total%20Commits&color=6e40c9&style=flat-square&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/yekongclx-a11y?label=Followers&style=flat-square&color=238636&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/yekongclx-a11y?label=Stars&style=flat-square&color=e3b341&logo=github&logoColor=white)
 
 </div>
 
