@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yekongclx-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,reviews&hide=stars,issues&custom_title=Ling+Xuan%27s+GitHub+Stats&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yekongclx-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues&custom_title=Ling+Xuan%27s+GitHub+Stats&hide_rank=true)
 
 </div>
 
