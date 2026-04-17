@@ -37,6 +37,13 @@
 
 ---
 
+### GitHub 统计
+
+![Commits](https://img.shields.io/github/commit-activity/y/yekongclx-a11y/yekongclx-a11y?label=Commits+This+Year&style=flat-square&logo=github&logoColor=white&color=6e40c9)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yekongclx-a11y&query=$.public_repos&label=Public+Repos&style=flat-square&logo=github&logoColor=white&color=1f6feb)
+
+---
+
 <div align="center">
 
 *「代码写得慢没关系，至少城市的灯还在亮着」*
